@@ -6,7 +6,7 @@ has_children: true
 ---
 
 # Grocy Install
-Pantry Party requires you have a working install of Grocy which is
+PantryParty requires you have a working install of Grocy which is
 accessible from the device you are working on.
 
 1. [Linuxserver.io](https://github.com/linuxserver/docker-grocy)

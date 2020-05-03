@@ -40,12 +40,12 @@ You can quickly tell how many items you have scanned which lack a product by the
 
 Tapping this bar will drop you into a [guided process to create all missing products](./product-quick-create).
 
-### Removing A Scan Result
+## Removing A Scan Result
 Occasionally you will scan an item and the barcode is read wrong by you phone's built-in systems. In this case your best course of action is to simply remove the incorrect scan results.
 
 Any scan results can be removed by taping the item, and selecting the trash can in the top right of your screen.
 
-### Editing a Scan Result
+## Editing a Scan Result
 
 By default most scans you make do not require manual intervention, however sometimes editing them by hand is the best course of action.
 

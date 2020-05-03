@@ -4,7 +4,7 @@ title: Welcome
 nav_order: 1
 ---
 
-## Welcome to Pantry Party Documentation
+## Welcome to PantryParty Documentation
 
 You can use the [editor on GitHub](https://github.com/PantryParty/pantry_party_docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -4,3 +4,10 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 ga_tracking: G-TF19VV930Y
 url: "https://pantryparty.app"
+plugins:
+  - jekyll-seo-tag
+aux_links:
+  "Docs on Github":
+    - "https://github.com/PantryParty/docs/"
+  "App Source on Github":
+    - "https://github.com/PantryParty/pantry_party/"

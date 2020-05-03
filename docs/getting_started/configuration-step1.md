@@ -7,7 +7,7 @@ parent: Getting Started
 
 # Grocy API Configuration
 
-This critical step connect the Pantry Party app to your install of Grocy.
+This critical step connect the PantryParty app to your install of Grocy.
 
 ## Create An API Key
 
@@ -33,13 +33,13 @@ API key for each consumer.
 
 ![Grocy API Config]( ./assets/grocery_api_config.png )>
 {: .image-frame.clearfix }
-## Configure Pantry Party
+## Configure PantryParty
 
 Paste the API key you created into the second field in the form. Once the
 API is entered fill in the URL to the Grocy Server. This URL should include
 the /api path component.
 
-As you type, Pantry Party will reach out to verify your connectivity. Most
+As you type, PantryParty will reach out to verify your connectivity. Most
 common errors should show up as a human readable response.
 
 Once a connection to Grocy has been established your current Grocy version
