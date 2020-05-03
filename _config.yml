@@ -1,11 +1,13 @@
 logo: "/assets/images/logo.png"
-theme: just-the-docs
+theme: minimal-mistakes-jekyll
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 ga_tracking: G-TF19VV930Y
 url: "https://pantryparty.app"
+minimal_mistakes_skin: "mint"
 plugins:
   - jekyll-seo-tag
+  - jekyll-include-cache
 aux_links:
   "Docs on Github":
     - "https://github.com/PantryParty/docs/"

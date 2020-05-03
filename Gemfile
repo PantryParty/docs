@@ -5,4 +5,6 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem 'jekyll'
-gem "just-the-docs"
+gem 'jekyll-include-cache'
+gem 'jekyll-seo-tag'
+gem "minimal-mistakes-jekyll"
