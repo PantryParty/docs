@@ -27,5 +27,8 @@ In order to make this one item in Grocy for usage in recipes or for maintaining 
 
 Everytime a new barcode is found, PantryParty guides you through the creation of the Grocy product and will give you the option to attach it to, or create a new, parent product.
 
+### The Exceptions
+The main exception to this rule is when you buy things in packs with a different barcodes than the pieces.
+
 ### That sounds stupid
 No problem, PantryParty will also add barcodes to existing Grocy Products.
