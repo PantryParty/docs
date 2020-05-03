@@ -6,7 +6,7 @@ parent: Basic Usage
 ---
 
 # Workflow
-Pantry Party is designed to enable a workflow with Grocy which we believe to enable toe best inventory management, with the lowest amount of manual intervention.
+PantryParty is designed to enable a workflow with Grocy which we believe to enable the best inventory management, with the lowest amount of manual intervention.
 
 ## Scan Don't Type
 PantryParty is designed to let you rapidly scan products without having to look back at the results. This workflow is supported by having PantryParty read the results of newly scanned barcodes (per session) to you while you remaining in the scanner.
