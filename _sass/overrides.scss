@@ -11,6 +11,10 @@
   border-radius: 4px;
 }
 
+.constrain-images-in-table img {
+  max-width: 300px;
+}
+
 @media (max-width: 600px) { 
   .image-frame {
     float: none;

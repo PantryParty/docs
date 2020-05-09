@@ -5,6 +5,8 @@ nav_order: 1
 parent: Getting Started
 ---
 
+**If you are using [ HomeAssistant ](https://www.home-assistant.io/) to manage your Grocy Instance you MUST follow [these instructions](./configure-has)**
+
 # Grocy API Configuration
 
 This critical step connect the PantryParty app to your install of Grocy.
