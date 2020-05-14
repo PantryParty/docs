@@ -5,6 +5,10 @@ nav_order: 5
 ---
 
 # Release Notes
+## Unreleased
+* [Fixes product creation](https://github.com/PantryParty/pantry_party/issues/41) - total rewrite of form builder
+* Displays purchase factor to more clearly indicate changes
+![Purchase Factor Display](./release_notes/assets/purchaseFactor.png)
 
 ## 1.0.10
 * Fix best before date for adding items to a freezer & opening
