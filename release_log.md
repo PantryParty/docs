@@ -6,6 +6,8 @@ nav_order: 5
 
 # Release Notes
 ## Unreleased
+* [Awesome new consume page with filters & actions](./docs/basic_usage/current-stock)
+* Fix for opening a product actually consuming it
 * [Fixes product creation](https://github.com/PantryParty/pantry_party/issues/41) - total rewrite of form builder
 * Displays purchase factor to more clearly indicate changes
 ![Purchase Factor Display](./release_notes/assets/purchaseFactor.png)
