@@ -1,11 +1,15 @@
 ---
 layout: default
 title: Release Notes
-nav_order: 5
+nav_order: 6
 ---
 
 # Release Notes
-## Unreleased
+## 1.1.0
+* [External Scanner Support](./docs/external-scanner)
+  * Including batch mode
+* [Awesome new consume page with filters & actions](./docs/basic_usage/current-stock)
+* Fix for opening a product actually consuming it
 * [Fixes product creation](https://github.com/PantryParty/pantry_party/issues/41) - total rewrite of form builder
 * Displays purchase factor to more clearly indicate changes
 ![Purchase Factor Display](./release_notes/assets/purchaseFactor.png)
