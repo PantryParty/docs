@@ -5,6 +5,10 @@ nav_order: 6
 ---
 
 # Release Notes
+## 1.1.1
+* Fix for current stock crash on Android
+* Fix for best by date being reset after editing
+
 ## 1.1.0
 * [External Scanner Support](./docs/external-scanner)
   * Including batch mode
