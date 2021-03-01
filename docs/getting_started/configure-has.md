@@ -21,7 +21,7 @@ Following the steps above should automatically restart your Grocy installation.
 After Grocy reboots it will be available on the same host/IP but on the new port you
 specified.
 
-If you normally access HomeAssistant from http://home:8123 and you
+If you normally access HomeAssistant from http://home-assistant:8123 and you
 selected port 2345 in step 3 above, you should now be able to access the Grocy
 Web UI at http://home-assistant:2345. You should then use http://home-assistant:2345/api
 for the Grocy configuration of PantryParty.
